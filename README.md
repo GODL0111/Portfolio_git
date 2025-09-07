@@ -1,3 +1,3 @@
-# React Portfolio
+# Advanced React Portfolio
 
-This is my advanced React portfolio app.
+This is my portfolio built with React, showcasing my projects, skills, and more.
